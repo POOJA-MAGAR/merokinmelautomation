@@ -1,6 +1,6 @@
 import * as dev from '../../Objects/Deliveryaddress.js'
 
-context('newPolicy', () => {
+context('deliveryAddress', () => {
        
     beforeEach(() => {
        cy.Login()
